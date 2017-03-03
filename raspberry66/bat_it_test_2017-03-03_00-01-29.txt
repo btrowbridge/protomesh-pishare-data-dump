@@ -1,0 +1,2610 @@
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:29 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.690s, "signal": 251,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.540s, "signal": 141,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.770s, "signal": 173,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.060s, "signal": 238,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.660s, "signal": 223,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.280s, "signal": 218,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.680s, "signal": 243,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.000s, "signal": 200,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.950s, "signal": 192,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.070s, "signal": 247,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.030s, "signal": 173,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.570s, "signal": 130,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.060s, "signal": 144,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.740s, "signal": 177,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.090s, "signal": 226,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:30 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.860s, "signal": 249,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.620s, "signal": 146,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.940s, "signal": 173,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.270s, "signal": 239,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.860s, "signal": 223,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.360s, "signal": 217,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.010s, "signal": 244,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.110s, "signal": 200,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.010s, "signal": 193,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.100s, "signal": 247,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.100s, "signal": 176,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.800s, "signal": 130,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.180s, "signal": 143,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.000s, "signal": 171,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.130s, "signal": 226,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:31 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.050s, "signal": 248,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.050s, "signal": 146,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.210s, "signal": 172,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.490s, "signal": 239,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.070s, "signal": 225,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.610s, "signal": 216,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.100s, "signal": 245,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.420s, "signal": 199,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.360s, "signal": 193,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.360s, "signal": 247,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  1.330s, "signal": 176,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.020s, "signal": 126,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.610s, "signal": 143,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.160s, "signal": 167,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.420s, "signal": 226,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:33 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.360s, "signal": 248,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.270s, "signal": 141,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.560s, "signal": 177,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.000s, "signal": 236,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.370s, "signal": 225,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.000s, "signal": 214,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.430s, "signal": 246,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.740s, "signal": 197,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.810s, "signal": 193,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.740s, "signal": 247,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.500s, "signal": 181,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.360s, "signal": 124,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.050s, "signal": 140,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.550s, "signal": 164,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.760s, "signal": 225,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:34 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.580s, "signal": 248,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.350s, "signal": 140,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.750s, "signal": 180,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.100s, "signal": 235,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.590s, "signal": 223,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.240s, "signal": 213,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.590s, "signal": 247,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.060s, "signal": 193,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.020s, "signal": 191,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.020s, "signal": 246,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.840s, "signal": 181,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.470s, "signal": 122,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.030s, "signal": 139,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.780s, "signal": 161,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.060s, "signal": 220,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:35 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.820s, "signal": 248,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.560s, "signal": 136,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.060s, "signal": 184,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.190s, "signal": 233,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.820s, "signal": 221,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.350s, "signal": 212,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.070s, "signal": 247,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.050s, "signal": 191,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.220s, "signal": 189,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.220s, "signal": 245,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.020s, "signal": 178,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.020s, "signal": 119,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.270s, "signal": 138,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.010s, "signal": 159,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.140s, "signal": 219,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:36 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.030s, "signal": 246,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.020s, "signal": 135,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.050s, "signal": 184,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.490s, "signal": 231,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.070s, "signal": 218,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.570s, "signal": 212,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.060s, "signal": 248,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.300s, "signal": 191,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.470s, "signal": 189,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.440s, "signal": 244,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.250s, "signal": 177,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.030s, "signal": 118,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.490s, "signal": 138,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.140s, "signal": 160,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.380s, "signal": 219,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:38 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.270s, "signal": 245,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.050s, "signal": 138,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.300s, "signal": 184,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.750s, "signal": 231,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.320s, "signal": 216,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.050s, "signal": 212,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.340s, "signal": 249,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.530s, "signal": 190,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.710s, "signal": 189,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.690s, "signal": 244,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.420s, "signal": 177,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.290s, "signal": 120,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.750s, "signal": 137,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.390s, "signal": 161,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.630s, "signal": 219,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:39 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.450s, "signal": 243,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.280s, "signal": 139,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.540s, "signal": 186,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.020s, "signal": 233,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.510s, "signal": 215,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.130s, "signal": 212,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.540s, "signal": 250,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.730s, "signal": 189,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.010s, "signal": 188,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.020s, "signal": 245,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.630s, "signal": 182,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.510s, "signal": 122,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.010s, "signal": 137,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.610s, "signal": 161,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.800s, "signal": 220,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:40 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.670s, "signal": 242,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.450s, "signal": 138,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.780s, "signal": 189,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.150s, "signal": 234,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.720s, "signal": 217,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.170s, "signal": 210,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.740s, "signal": 251,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.020s, "signal": 189,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.080s, "signal": 188,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.000s, "signal": 245,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.030s, "signal": 196,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.700s, "signal": 122,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.150s, "signal": 137,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.010s, "signal": 161,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.020s, "signal": 222,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:41 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.890s, "signal": 242,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.730s, "signal": 137,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.050s, "signal": 196,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.500s, "signal": 235,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.050s, "signal": 219,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.450s, "signal": 209,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.050s, "signal": 251,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.260s, "signal": 188,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.230s, "signal": 188,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.260s, "signal": 245,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.170s, "signal": 195,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.040s, "signal": 120,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.400s, "signal": 137,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.040s, "signal": 160,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.290s, "signal": 223,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:42 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.140s, "signal": 242,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.070s, "signal": 136,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.300s, "signal": 199,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.660s, "signal": 235,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.210s, "signal": 219,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.660s, "signal": 207,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.240s, "signal": 251,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.430s, "signal": 188,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.470s, "signal": 186,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.460s, "signal": 243,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.410s, "signal": 194,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.330s, "signal": 120,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.660s, "signal": 135,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.280s, "signal": 159,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.430s, "signal": 224,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:44 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.030s, "signal": 242,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.270s, "signal": 136,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.480s, "signal": 200,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.070s, "signal": 235,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.420s, "signal": 218,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.020s, "signal": 205,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.450s, "signal": 251,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.570s, "signal": 188,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.670s, "signal": 185,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.710s, "signal": 242,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.580s, "signal": 191,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.420s, "signal": 117,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.050s, "signal": 134,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.460s, "signal": 159,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.710s, "signal": 226,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:45 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.530s, "signal": 242,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.470s, "signal": 135,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.670s, "signal": 201,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.040s, "signal": 235,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.620s, "signal": 216,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.090s, "signal": 205,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.610s, "signal": 251,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.010s, "signal": 185,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.060s, "signal": 182,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.000s, "signal": 239,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.730s, "signal": 186,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.630s, "signal": 117,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.040s, "signal": 132,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.670s, "signal": 161,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.000s, "signal": 228,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:46 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.760s, "signal": 242,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.580s, "signal": 134,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.070s, "signal": 203,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.270s, "signal": 235,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.020s, "signal": 214,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.430s, "signal": 205,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.090s, "signal": 251,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.020s, "signal": 183,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.100s, "signal": 180,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.100s, "signal": 239,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.060s, "signal": 177,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.100s, "signal": 121,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.270s, "signal": 131,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.100s, "signal": 165,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.120s, "signal": 229,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:47 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.970s, "signal": 242,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.820s, "signal": 132,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.140s, "signal": 206,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.460s, "signal": 235,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.100s, "signal": 213,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.420s, "signal": 204,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.010s, "signal": 251,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.250s, "signal": 181,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.400s, "signal": 180,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.140s, "signal": 239,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  1.290s, "signal": 177,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.140s, "signal": 124,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.460s, "signal": 130,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  1.100s, "signal": 165,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.280s, "signal": 230,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:48 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.140s, "signal": 242,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.000s, "signal": 130,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.280s, "signal": 208,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.640s, "signal": 236,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.320s, "signal": 212,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.700s, "signal": 204,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.280s, "signal": 251,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.400s, "signal": 180,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.510s, "signal": 178,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.440s, "signal": 238,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.320s, "signal": 175,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.310s, "signal": 124,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.780s, "signal": 129,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.280s, "signal": 167,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.540s, "signal": 230,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:50 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.350s, "signal": 242,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.210s, "signal": 127,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.470s, "signal": 211,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.000s, "signal": 236,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.530s, "signal": 213,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.020s, "signal": 204,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.460s, "signal": 251,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.580s, "signal": 179,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.700s, "signal": 176,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.690s, "signal": 237,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.520s, "signal": 175,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.490s, "signal": 121,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.040s, "signal": 128,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.480s, "signal": 169,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.740s, "signal": 228,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:51 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.570s, "signal": 242,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.290s, "signal": 125,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.620s, "signal": 213,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.060s, "signal": 235,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.720s, "signal": 213,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.120s, "signal": 204,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.760s, "signal": 251,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.060s, "signal": 178,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.080s, "signal": 176,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.110s, "signal": 235,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.680s, "signal": 174,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.690s, "signal": 119,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.050s, "signal": 128,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.690s, "signal": 170,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.060s, "signal": 223,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:52 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.830s, "signal": 242,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.780s, "signal": 123,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.080s, "signal": 212,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.320s, "signal": 234,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.090s, "signal": 209,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.370s, "signal": 203,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.090s, "signal": 251,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.130s, "signal": 180,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.170s, "signal": 176,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.140s, "signal": 235,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.050s, "signal": 173,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.060s, "signal": 120,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.290s, "signal": 129,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.040s, "signal": 173,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.010s, "signal": 222,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:53 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.020s, "signal": 238,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.080s, "signal": 124,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.080s, "signal": 211,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.430s, "signal": 232,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.140s, "signal": 208,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.560s, "signal": 202,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.050s, "signal": 252,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.220s, "signal": 181,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.350s, "signal": 177,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.340s, "signal": 235,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.150s, "signal": 171,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.130s, "signal": 124,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.310s, "signal": 129,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.140s, "signal": 173,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.360s, "signal": 220,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:55 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.180s, "signal": 237,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.110s, "signal": 124,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.270s, "signal": 209,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.790s, "signal": 231,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.360s, "signal": 205,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.770s, "signal": 200,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.250s, "signal": 253,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.510s, "signal": 182,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.550s, "signal": 178,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.570s, "signal": 235,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.370s, "signal": 169,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.340s, "signal": 124,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.680s, "signal": 129,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.320s, "signal": 176,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.580s, "signal": 220,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:56 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.400s, "signal": 237,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.400s, "signal": 124,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.430s, "signal": 208,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.080s, "signal": 231,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.530s, "signal": 204,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.090s, "signal": 198,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.480s, "signal": 254,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.710s, "signal": 182,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.730s, "signal": 178,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.750s, "signal": 235,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.540s, "signal": 167,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.520s, "signal": 124,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.080s, "signal": 129,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.520s, "signal": 178,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  1.770s, "signal": 220,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:57 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.620s, "signal": 237,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.530s, "signal": 123,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.680s, "signal": 207,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.110s, "signal": 231,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.680s, "signal": 204,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.190s, "signal": 198,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.660s, "signal": 255,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.000s, "signal": 180,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.030s, "signal": 177,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.070s, "signal": 235,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.020s, "signal": 164,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.680s, "signal": 124,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.110s, "signal": 131,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.710s, "signal": 178,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.000s, "signal": 223,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:58 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.600s, "signal": 237,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.610s, "signal": 123,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.010s, "signal": 207,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.280s, "signal": 231,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.080s, "signal": 206,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.520s, "signal": 198,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.020s, "signal": 254,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  1.110s, "signal": 180,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.030s, "signal": 175,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.130s, "signal": 235,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.000s, "signal": 163,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.020s, "signal": 124,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.270s, "signal": 129,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.000s, "signal": 178,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.130s, "signal": 224,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:01:59 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.030s, "signal": 237,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.020s, "signal": 125,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.030s, "signal": 211,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.070s, "signal": 231,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.030s, "signal": 207,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.080s, "signal": 198,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.020s, "signal": 254,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.070s, "signal": 179,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.060s, "signal": 174,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.070s, "signal": 235,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.010s, "signal": 162,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.100s, "signal": 124,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.070s, "signal": 128,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.100s, "signal": 177,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.060s, "signal": 224,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:01 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.250s, "signal": 235,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.230s, "signal": 123,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.310s, "signal": 213,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.710s, "signal": 231,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.370s, "signal": 206,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.060s, "signal": 196,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.310s, "signal": 254,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.520s, "signal": 179,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.510s, "signal": 171,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.590s, "signal": 234,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.450s, "signal": 162,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.350s, "signal": 125,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.690s, "signal": 128,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.410s, "signal": 177,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.590s, "signal": 225,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:02 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.460s, "signal": 233,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.440s, "signal": 121,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.540s, "signal": 215,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.000s, "signal": 231,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.620s, "signal": 206,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.050s, "signal": 196,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.540s, "signal": 254,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.830s, "signal": 177,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.730s, "signal": 168,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.000s, "signal": 232,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.710s, "signal": 162,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.570s, "signal": 123,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.010s, "signal": 125,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.610s, "signal": 176,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.790s, "signal": 225,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:03 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.620s, "signal": 231,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.550s, "signal": 120,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.740s, "signal": 215,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.160s, "signal": 231,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.770s, "signal": 205,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.300s, "signal": 194,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.780s, "signal": 254,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.080s, "signal": 174,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.050s, "signal": 164,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.120s, "signal": 231,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.030s, "signal": 162,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.800s, "signal": 122,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.130s, "signal": 124,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.080s, "signal": 180,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.070s, "signal": 225,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:04 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.020s, "signal": 227,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.830s, "signal": 119,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.000s, "signal": 212,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.350s, "signal": 231,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.070s, "signal": 204,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.490s, "signal": 193,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.020s, "signal": 255,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.190s, "signal": 173,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.210s, "signal": 162,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.330s, "signal": 230,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.120s, "signal": 161,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.000s, "signal": 123,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.350s, "signal": 123,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.060s, "signal": 182,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.210s, "signal": 224,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:05 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.080s, "signal": 226,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.030s, "signal": 120,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.070s, "signal": 210,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.580s, "signal": 231,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.260s, "signal": 204,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.670s, "signal": 192,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.160s, "signal": 255,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.400s, "signal": 171,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.340s, "signal": 162,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.420s, "signal": 228,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.330s, "signal": 159,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.140s, "signal": 124,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.510s, "signal": 122,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.270s, "signal": 180,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.420s, "signal": 223,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:07 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.300s, "signal": 225,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.160s, "signal": 119,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.300s, "signal": 208,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.010s, "signal": 231,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.480s, "signal": 203,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.090s, "signal": 188,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.370s, "signal": 255,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.740s, "signal": 170,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.660s, "signal": 163,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.710s, "signal": 226,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.540s, "signal": 158,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.390s, "signal": 122,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.720s, "signal": 122,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.480s, "signal": 180,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.600s, "signal": 222,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:08 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.270s, "signal": 225,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.270s, "signal": 118,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.270s, "signal": 207,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.010s, "signal": 231,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.280s, "signal": 202,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.090s, "signal": 187,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.370s, "signal": 255,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.080s, "signal": 168,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.010s, "signal": 164,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.090s, "signal": 222,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.710s, "signal": 156,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.710s, "signal": 119,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.010s, "signal": 120,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.370s, "signal": 177,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.050s, "signal": 221,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:09 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.770s, "signal": 225,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.720s, "signal": 118,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.730s, "signal": 206,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.220s, "signal": 231,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.030s, "signal": 200,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.230s, "signal": 184,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.040s, "signal": 254,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.100s, "signal": 168,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.070s, "signal": 163,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.070s, "signal": 219,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.070s, "signal": 152,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.100s, "signal": 115,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.180s, "signal": 119,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.070s, "signal": 176,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.120s, "signal": 221,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:10 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.110s, "signal": 225,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.020s, "signal": 116,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.070s, "signal": 207,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.590s, "signal": 231,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.270s, "signal": 199,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.630s, "signal": 183,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.070s, "signal": 253,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.430s, "signal": 167,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.320s, "signal": 163,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.370s, "signal": 217,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.240s, "signal": 151,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.220s, "signal": 115,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.430s, "signal": 118,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.300s, "signal": 176,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.360s, "signal": 220,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:12 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.330s, "signal": 224,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.250s, "signal": 116,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.170s, "signal": 208,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.020s, "signal": 231,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.480s, "signal": 198,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.060s, "signal": 183,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.280s, "signal": 252,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.640s, "signal": 166,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.570s, "signal": 161,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.650s, "signal": 216,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.510s, "signal": 151,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.420s, "signal": 115,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.740s, "signal": 118,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.480s, "signal": 177,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.610s, "signal": 220,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:13 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.540s, "signal": 223,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.440s, "signal": 114,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.480s, "signal": 208,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.030s, "signal": 230,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.680s, "signal": 198,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.040s, "signal": 184,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.580s, "signal": 251,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.040s, "signal": 165,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.760s, "signal": 161,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.080s, "signal": 215,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.720s, "signal": 153,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.640s, "signal": 112,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.030s, "signal": 120,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.720s, "signal": 179,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.010s, "signal": 217,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:14 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.760s, "signal": 222,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.550s, "signal": 114,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.570s, "signal": 209,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.250s, "signal": 229,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.010s, "signal": 201,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.290s, "signal": 187,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.040s, "signal": 251,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.120s, "signal": 164,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.050s, "signal": 162,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.100s, "signal": 215,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.030s, "signal": 158,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.050s, "signal": 112,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.250s, "signal": 119,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.040s, "signal": 181,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.030s, "signal": 216,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:15 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.090s, "signal": 218,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.060s, "signal": 117,  "nextHop": b8:27:eb:6a:53:02 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.010s, "signal": 212,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.620s, "signal": 228,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.240s, "signal": 203,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.610s, "signal": 189,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.060s, "signal": 251,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.340s, "signal": 165,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.360s, "signal": 162,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.450s, "signal": 215,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.290s, "signal": 159,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.200s, "signal": 117,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.620s, "signal": 120,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.290s, "signal": 181,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.450s, "signal": 216,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:17 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.370s, "signal": 217,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.260s, "signal": 119,  "nextHop": b8:27:eb:6a:53:02 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.290s, "signal": 214,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.100s, "signal": 227,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.510s, "signal": 206,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.000s, "signal": 192,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.460s, "signal": 251,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.690s, "signal": 167,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.630s, "signal": 163,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.810s, "signal": 216,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.560s, "signal": 162,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.480s, "signal": 117,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.020s, "signal": 121,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.590s, "signal": 181,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.710s, "signal": 215,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:18 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.640s, "signal": 217,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.360s, "signal": 120,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.570s, "signal": 216,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.030s, "signal": 227,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.670s, "signal": 208,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.000s, "signal": 195,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.720s, "signal": 251,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.000s, "signal": 170,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.920s, "signal": 163,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.010s, "signal": 216,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.060s, "signal": 163,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.730s, "signal": 116,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.070s, "signal": 123,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.810s, "signal": 180,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.080s, "signal": 214,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:19 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.870s, "signal": 216,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.760s, "signal": 122,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.790s, "signal": 218,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.210s, "signal": 227,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.100s, "signal": 210,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.240s, "signal": 196,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.070s, "signal": 250,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  1.120s, "signal": 170,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.180s, "signal": 162,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.020s, "signal": 215,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  1.050s, "signal": 163,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.060s, "signal": 116,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.180s, "signal": 124,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.090s, "signal": 180,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.200s, "signal": 213,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:21 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.850s, "signal": 216,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.590s, "signal": 123,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.840s, "signal": 219,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.330s, "signal": 227,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.850s, "signal": 210,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.030s, "signal": 197,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.230s, "signal": 249,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.010s, "signal": 176,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.150s, "signal": 163,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.020s, "signal": 214,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.040s, "signal": 162,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.850s, "signal": 116,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.090s, "signal": 126,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.040s, "signal": 180,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.030s, "signal": 212,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:22 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  2.050s, "signal": 216,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.010s, "signal": 125,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.060s, "signal": 220,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.020s, "signal": 227,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.010s, "signal": 212,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.050s, "signal": 199,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.180s, "signal": 248,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.560s, "signal": 180,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.060s, "signal": 162,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.010s, "signal": 213,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.080s, "signal": 159,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.060s, "signal": 118,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.290s, "signal": 129,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.240s, "signal": 178,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.440s, "signal": 211,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:23 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.180s, "signal": 211,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.170s, "signal": 125,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.080s, "signal": 219,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.030s, "signal": 227,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.240s, "signal": 212,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.020s, "signal": 199,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.160s, "signal": 247,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.040s, "signal": 184,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.760s, "signal": 160,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.920s, "signal": 212,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.760s, "signal": 158,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.380s, "signal": 118,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.090s, "signal": 131,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.240s, "signal": 177,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.020s, "signal": 211,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:24 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.680s, "signal": 209,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.510s, "signal": 127,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.650s, "signal": 217,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.190s, "signal": 227,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.010s, "signal": 208,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.260s, "signal": 199,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.010s, "signal": 246,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.130s, "signal": 185,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.050s, "signal": 160,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.260s, "signal": 215,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.030s, "signal": 160,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.050s, "signal": 120,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.030s, "signal": 137,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.000s, "signal": 171,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.060s, "signal": 212,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:25 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.000s, "signal": 207,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.770s, "signal": 129,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.050s, "signal": 216,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.490s, "signal": 227,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.170s, "signal": 204,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.490s, "signal": 199,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.050s, "signal": 246,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.410s, "signal": 186,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.270s, "signal": 159,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.540s, "signal": 216,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.220s, "signal": 162,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.100s, "signal": 120,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.380s, "signal": 138,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.190s, "signal": 168,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.370s, "signal": 213,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:27 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.160s, "signal": 208,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.100s, "signal": 129,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.070s, "signal": 216,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.700s, "signal": 227,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.350s, "signal": 205,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.710s, "signal": 198,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.190s, "signal": 246,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.590s, "signal": 187,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.570s, "signal": 163,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.640s, "signal": 217,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.410s, "signal": 171,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.310s, "signal": 121,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.700s, "signal": 138,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.370s, "signal": 164,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.520s, "signal": 212,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:28 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.280s, "signal": 207,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.280s, "signal": 129,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.250s, "signal": 214,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.000s, "signal": 226,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.290s, "signal": 202,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.000s, "signal": 196,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.230s, "signal": 245,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.380s, "signal": 187,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.600s, "signal": 166,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.020s, "signal": 218,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.290s, "signal": 171,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.380s, "signal": 120,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.810s, "signal": 138,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.370s, "signal": 160,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.290s, "signal": 210,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:29 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.630s, "signal": 207,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.400s, "signal": 129,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.550s, "signal": 214,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.150s, "signal": 225,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.720s, "signal": 201,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.100s, "signal": 196,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.640s, "signal": 245,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.030s, "signal": 181,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.100s, "signal": 166,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.020s, "signal": 217,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.070s, "signal": 175,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.640s, "signal": 121,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.120s, "signal": 133,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.020s, "signal": 156,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.000s, "signal": 205,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:30 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.030s, "signal": 208,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  1.660s, "signal": 129,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.040s, "signal": 214,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.410s, "signal": 224,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  1.040s, "signal": 199,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.420s, "signal": 197,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.040s, "signal": 242,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.040s, "signal": 178,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  1.140s, "signal": 166,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.100s, "signal": 216,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.090s, "signal": 176,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.040s, "signal": 112,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.250s, "signal": 128,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.040s, "signal": 154,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.060s, "signal": 202,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:32 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.170s, "signal": 209,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.060s, "signal": 122,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.080s, "signal": 214,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.610s, "signal": 223,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.220s, "signal": 195,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.810s, "signal": 199,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.210s, "signal": 240,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.360s, "signal": 175,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.400s, "signal": 163,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.460s, "signal": 215,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.400s, "signal": 175,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.260s, "signal": 111,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.470s, "signal": 129,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.350s, "signal": 157,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.480s, "signal": 200,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:33 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.390s, "signal": 210,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.250s, "signal": 122,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.290s, "signal": 215,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.010s, "signal": 223,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.520s, "signal": 195,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.020s, "signal": 202,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.400s, "signal": 239,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.650s, "signal": 173,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.540s, "signal": 162,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.740s, "signal": 215,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.510s, "signal": 176,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.480s, "signal": 110,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.650s, "signal": 128,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.520s, "signal": 158,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.600s, "signal": 200,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:34 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.600s, "signal": 211,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.390s, "signal": 122,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.500s, "signal": 216,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.220s, "signal": 223,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.550s, "signal": 193,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.120s, "signal": 202,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.610s, "signal": 239,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.050s, "signal": 172,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.090s, "signal": 164,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.050s, "signal": 215,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.720s, "signal": 175,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.680s, "signal": 110,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.080s, "signal": 128,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.690s, "signal": 159,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.070s, "signal": 200,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:35 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.070s, "signal": 209,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.700s, "signal": 125,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.100s, "signal": 214,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.420s, "signal": 223,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.060s, "signal": 192,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.520s, "signal": 202,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.030s, "signal": 239,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.240s, "signal": 174,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.170s, "signal": 172,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.350s, "signal": 215,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.110s, "signal": 178,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.020s, "signal": 117,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.300s, "signal": 129,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.110s, "signal": 158,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.280s, "signal": 200,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:37 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.060s, "signal": 209,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.020s, "signal": 128,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.010s, "signal": 213,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.620s, "signal": 223,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.270s, "signal": 191,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.590s, "signal": 202,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.010s, "signal": 239,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.450s, "signal": 176,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.450s, "signal": 174,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.550s, "signal": 215,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.390s, "signal": 180,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.060s, "signal": 121,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.490s, "signal": 132,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.390s, "signal": 160,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.490s, "signal": 201,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:38 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.360s, "signal": 209,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.230s, "signal": 128,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.320s, "signal": 211,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.030s, "signal": 226,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.370s, "signal": 191,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.040s, "signal": 203,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.330s, "signal": 239,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.700s, "signal": 178,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.570s, "signal": 175,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.750s, "signal": 215,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.580s, "signal": 183,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.440s, "signal": 124,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.700s, "signal": 134,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.510s, "signal": 160,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.670s, "signal": 202,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:39 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.600s, "signal": 209,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.450s, "signal": 128,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.570s, "signal": 210,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.040s, "signal": 227,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.600s, "signal": 193,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.040s, "signal": 204,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.560s, "signal": 239,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.100s, "signal": 178,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.040s, "signal": 176,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.040s, "signal": 216,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.000s, "signal": 187,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.660s, "signal": 125,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.030s, "signal": 140,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.740s, "signal": 159,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.040s, "signal": 204,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:40 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.860s, "signal": 210,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.620s, "signal": 139,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.040s, "signal": 208,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.310s, "signal": 227,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.070s, "signal": 197,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.310s, "signal": 205,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.050s, "signal": 239,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.120s, "signal": 179,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.100s, "signal": 177,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.250s, "signal": 217,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.050s, "signal": 187,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.010s, "signal": 125,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.190s, "signal": 142,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.010s, "signal": 159,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.180s, "signal": 205,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:42 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.090s, "signal": 213,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.030s, "signal": 139,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.030s, "signal": 207,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.520s, "signal": 227,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.030s, "signal": 199,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.510s, "signal": 206,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.040s, "signal": 239,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.380s, "signal": 180,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.330s, "signal": 177,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.450s, "signal": 218,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.250s, "signal": 186,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.110s, "signal": 124,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.380s, "signal": 142,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.210s, "signal": 158,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.420s, "signal": 205,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:43 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.280s, "signal": 213,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.110s, "signal": 139,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.190s, "signal": 207,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.720s, "signal": 225,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.330s, "signal": 199,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.740s, "signal": 207,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.270s, "signal": 239,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.490s, "signal": 181,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.530s, "signal": 178,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.720s, "signal": 219,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.430s, "signal": 184,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.310s, "signal": 124,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.550s, "signal": 143,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.380s, "signal": 157,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.610s, "signal": 205,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:44 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.490s, "signal": 213,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.210s, "signal": 139,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.420s, "signal": 205,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.060s, "signal": 223,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.490s, "signal": 199,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.050s, "signal": 209,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.480s, "signal": 239,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.730s, "signal": 181,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.710s, "signal": 180,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.080s, "signal": 219,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.660s, "signal": 181,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.550s, "signal": 123,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.000s, "signal": 144,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.620s, "signal": 159,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.850s, "signal": 205,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:45 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.690s, "signal": 212,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.510s, "signal": 139,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.680s, "signal": 203,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.230s, "signal": 221,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.690s, "signal": 199,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.230s, "signal": 210,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.610s, "signal": 239,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.010s, "signal": 180,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.040s, "signal": 181,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.230s, "signal": 220,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.000s, "signal": 182,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.040s, "signal": 130,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.050s, "signal": 146,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.080s, "signal": 160,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.120s, "signal": 204,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:46 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.070s, "signal": 209,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.660s, "signal": 140,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.010s, "signal": 203,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.360s, "signal": 221,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.000s, "signal": 201,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.560s, "signal": 211,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.020s, "signal": 239,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.200s, "signal": 179,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.230s, "signal": 181,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.360s, "signal": 222,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.110s, "signal": 182,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.020s, "signal": 134,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.210s, "signal": 150,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.050s, "signal": 160,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.340s, "signal": 204,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:48 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  1.150s, "signal": 209,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.040s, "signal": 140,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.000s, "signal": 203,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.630s, "signal": 221,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.010s, "signal": 203,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.650s, "signal": 211,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.020s, "signal": 238,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.510s, "signal": 179,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.390s, "signal": 180,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.510s, "signal": 223,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.270s, "signal": 184,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.030s, "signal": 135,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.380s, "signal": 151,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  1.250s, "signal": 160,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.520s, "signal": 203,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:49 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.340s, "signal": 209,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.110s, "signal": 142,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.280s, "signal": 203,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.030s, "signal": 221,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.380s, "signal": 205,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.030s, "signal": 209,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.340s, "signal": 237,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.600s, "signal": 176,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.550s, "signal": 179,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.810s, "signal": 224,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.530s, "signal": 190,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.400s, "signal": 135,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.660s, "signal": 153,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.430s, "signal": 159,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.730s, "signal": 203,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:50 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.560s, "signal": 209,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.550s, "signal": 142,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.510s, "signal": 202,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.050s, "signal": 222,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.510s, "signal": 207,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.040s, "signal": 208,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.570s, "signal": 236,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.060s, "signal": 173,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.780s, "signal": 178,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.040s, "signal": 223,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.760s, "signal": 190,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.650s, "signal": 135,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.060s, "signal": 155,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.670s, "signal": 156,  "nextHop": b8:27:eb:9a:ff:f6 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.050s, "signal": 204,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:51 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.750s, "signal": 209,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.510s, "signal": 142,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.700s, "signal": 201,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.220s, "signal": 222,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.700s, "signal": 208,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.270s, "signal": 208,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.780s, "signal": 235,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.050s, "signal": 173,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.960s, "signal": 176,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.220s, "signal": 221,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.050s, "signal": 187,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.060s, "signal": 131,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.050s, "signal": 155,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.000s, "signal": 150,  "nextHop": b8:27:eb:fb:e8:a0 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.060s, "signal": 204,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:53 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.030s, "signal": 206,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.750s, "signal": 134,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.910s, "signal": 199,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.450s, "signal": 222,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.060s, "signal": 209,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.540s, "signal": 207,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.010s, "signal": 235,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.270s, "signal": 174,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.230s, "signal": 175,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.450s, "signal": 220,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.190s, "signal": 185,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.000s, "signal": 131,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.240s, "signal": 156,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.030s, "signal": 150,  "nextHop": b8:27:eb:fb:e8:a0 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.340s, "signal": 205,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:54 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.130s, "signal": 205,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.050s, "signal": 134,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.090s, "signal": 195,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.670s, "signal": 222,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.100s, "signal": 208,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.640s, "signal": 207,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.150s, "signal": 235,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.470s, "signal": 175,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.320s, "signal": 173,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.600s, "signal": 220,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.370s, "signal": 185,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.270s, "signal": 130,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.460s, "signal": 156,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.270s, "signal": 150,  "nextHop": b8:27:eb:fb:e8:a0 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.540s, "signal": 206,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:55 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.380s, "signal": 202,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.150s, "signal": 135,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.300s, "signal": 193,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.000s, "signal": 225,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.340s, "signal": 208,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.090s, "signal": 205,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.400s, "signal": 235,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.740s, "signal": 176,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.570s, "signal": 170,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.050s, "signal": 222,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.620s, "signal": 184,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.490s, "signal": 131,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.700s, "signal": 155,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.490s, "signal": 150,  "nextHop": b8:27:eb:fb:e8:a0 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.790s, "signal": 207,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:56 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.630s, "signal": 201,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.450s, "signal": 138,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.550s, "signal": 191,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.070s, "signal": 226,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.550s, "signal": 209,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.090s, "signal": 203,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.640s, "signal": 235,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.070s, "signal": 176,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.030s, "signal": 167,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.030s, "signal": 223,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.040s, "signal": 187,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.730s, "signal": 132,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.020s, "signal": 155,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.730s, "signal": 147,  "nextHop": b8:27:eb:fb:e8:a0 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.030s, "signal": 209,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:57 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.830s, "signal": 200,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.650s, "signal": 138,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.740s, "signal": 190,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.340s, "signal": 229,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.740s, "signal": 209,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.340s, "signal": 203,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.080s, "signal": 235,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.130s, "signal": 173,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.020s, "signal": 165,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.240s, "signal": 223,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.080s, "signal": 189,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.030s, "signal": 133,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.230s, "signal": 155,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.050s, "signal": 144,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.230s, "signal": 208,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:02:59 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.030s, "signal": 200,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.070s, "signal": 138,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.040s, "signal": 189,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.570s, "signal": 230,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.030s, "signal": 211,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.530s, "signal": 202,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.040s, "signal": 235,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.350s, "signal": 169,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.200s, "signal": 163,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.420s, "signal": 222,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.230s, "signal": 189,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.120s, "signal": 133,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.440s, "signal": 155,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.130s, "signal": 145,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.420s, "signal": 207,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:03:00 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.150s, "signal": 201,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.100s, "signal": 138,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.150s, "signal": 189,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.800s, "signal": 230,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.200s, "signal": 211,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.760s, "signal": 201,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.260s, "signal": 235,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.580s, "signal": 164,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.420s, "signal": 160,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.680s, "signal": 221,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.450s, "signal": 190,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.310s, "signal": 133,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.570s, "signal": 157,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.360s, "signal": 146,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.680s, "signal": 205,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:03:01 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.500s, "signal": 201,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.470s, "signal": 138,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.550s, "signal": 189,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.000s, "signal": 230,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.590s, "signal": 210,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.000s, "signal": 199,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.590s, "signal": 235,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.050s, "signal": 159,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.760s, "signal": 160,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.010s, "signal": 219,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.820s, "signal": 191,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.680s, "signal": 133,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.060s, "signal": 158,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.690s, "signal": 146,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.050s, "signal": 202,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:03:02 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.850s, "signal": 201,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.710s, "signal": 139,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.020s, "signal": 187,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.410s, "signal": 230,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.750s, "signal": 209,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.490s, "signal": 199,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.100s, "signal": 235,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.230s, "signal": 157,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.020s, "signal": 160,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.280s, "signal": 218,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.070s, "signal": 192,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.030s, "signal": 136,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.220s, "signal": 159,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.030s, "signal": 145,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.250s, "signal": 201,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:03:04 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.070s, "signal": 201,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.010s, "signal": 145,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.010s, "signal": 185,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.710s, "signal": 230,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.020s, "signal": 209,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.690s, "signal": 199,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.060s, "signal": 234,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.420s, "signal": 156,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.350s, "signal": 160,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.490s, "signal": 218,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.280s, "signal": 195,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.140s, "signal": 136,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.510s, "signal": 159,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.130s, "signal": 144,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.460s, "signal": 199,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:03:05 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.300s, "signal": 203,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.120s, "signal": 146,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.240s, "signal": 184,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.050s, "signal": 230,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.170s, "signal": 209,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.030s, "signal": 199,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.210s, "signal": 233,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.620s, "signal": 155,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.490s, "signal": 161,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.710s, "signal": 218,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.530s, "signal": 196,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.330s, "signal": 134,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.640s, "signal": 159,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.300s, "signal": 142,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.750s, "signal": 198,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:03:06 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.400s, "signal": 204,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.350s, "signal": 147,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.450s, "signal": 182,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.050s, "signal": 229,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.410s, "signal": 210,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.160s, "signal": 199,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.510s, "signal": 232,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.050s, "signal": 154,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.740s, "signal": 161,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.020s, "signal": 219,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.730s, "signal": 197,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.610s, "signal": 133,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.080s, "signal": 160,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.580s, "signal": 142,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.080s, "signal": 194,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:03:07 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.690s, "signal": 207,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.570s, "signal": 147,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.620s, "signal": 183,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.260s, "signal": 228,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.630s, "signal": 211,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.360s, "signal": 199,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.710s, "signal": 231,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.020s, "signal": 153,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.010s, "signal": 162,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.230s, "signal": 219,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.020s, "signal": 200,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.010s, "signal": 131,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.180s, "signal": 161,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.020s, "signal": 144,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.150s, "signal": 193,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:03:09 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.790s, "signal": 210,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.010s, "signal": 146,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.020s, "signal": 185,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.440s, "signal": 227,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.820s, "signal": 212,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.550s, "signal": 200,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.010s, "signal": 231,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.130s, "signal": 153,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.070s, "signal": 163,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.270s, "signal": 219,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.060s, "signal": 200,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.080s, "signal": 129,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.200s, "signal": 162,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.070s, "signal": 144,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.260s, "signal": 192,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:03:10 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.100s, "signal": 213,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.020s, "signal": 149,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.060s, "signal": 186,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.670s, "signal": 226,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.070s, "signal": 213,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.820s, "signal": 201,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.140s, "signal": 231,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.450s, "signal": 153,  "nextHop": b8:27:eb:bd:64:88 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.370s, "signal": 163,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.560s, "signal": 219,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.400s, "signal": 201,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.220s, "signal": 128,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.500s, "signal": 165,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.200s, "signal": 143,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.580s, "signal": 192,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:03:11 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.290s, "signal": 213,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.280s, "signal": 149,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.320s, "signal": 187,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.070s, "signal": 226,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.340s, "signal": 215,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.070s, "signal": 205,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.420s, "signal": 231,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.710s, "signal": 152,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.630s, "signal": 163,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.060s, "signal": 223,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.550s, "signal": 202,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.480s, "signal": 127,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.010s, "signal": 168,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.380s, "signal": 143,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.760s, "signal": 192,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:03:12 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.480s, "signal": 213,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.480s, "signal": 149,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.520s, "signal": 188,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.170s, "signal": 225,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.630s, "signal": 217,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.290s, "signal": 206,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.600s, "signal": 231,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.890s, "signal": 155,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.020s, "signal": 161,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.140s, "signal": 225,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.050s, "signal": 204,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.690s, "signal": 127,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.100s, "signal": 170,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.690s, "signal": 143,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.040s, "signal": 194,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:03:13 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.650s, "signal": 213,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.650s, "signal": 149,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.710s, "signal": 188,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.380s, "signal": 223,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.740s, "signal": 219,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.500s, "signal": 207,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.020s, "signal": 231,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.100s, "signal": 157,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.000s, "signal": 161,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.350s, "signal": 227,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.010s, "signal": 205,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.910s, "signal": 125,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.220s, "signal": 170,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.100s, "signal": 145,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.240s, "signal": 194,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:03:15 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.010s, "signal": 213,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.090s, "signal": 149,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.080s, "signal": 189,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.500s, "signal": 222,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.080s, "signal": 220,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.600s, "signal": 209,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.030s, "signal": 232,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.320s, "signal": 157,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.240s, "signal": 162,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.610s, "signal": 229,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.300s, "signal": 205,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.110s, "signal": 125,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.430s, "signal": 169,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.110s, "signal": 147,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.430s, "signal": 196,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:03:16 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.330s, "signal": 213,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.300s, "signal": 128,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.290s, "signal": 187,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.010s, "signal": 218,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.300s, "signal": 219,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.040s, "signal": 210,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.360s, "signal": 233,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.670s, "signal": 157,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.540s, "signal": 163,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.770s, "signal": 230,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.650s, "signal": 206,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.440s, "signal": 125,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.750s, "signal": 169,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.450s, "signal": 148,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.810s, "signal": 198,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:03:17 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.300s, "signal": 213,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.180s, "signal": 154,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.260s, "signal": 185,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.050s, "signal": 218,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.320s, "signal": 218,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.240s, "signal": 211,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.400s, "signal": 234,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.980s, "signal": 158,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.730s, "signal": 165,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.020s, "signal": 230,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.860s, "signal": 206,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.760s, "signal": 125,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.070s, "signal": 167,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.470s, "signal": 148,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.050s, "signal": 198,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
+{"datapoint" : { 
+"timestamp": " 03/03/17_12:03:18 am UTC " ,
+"HostMAC" :  b8:27:eb:0c:5b:cf  ,
+'oriiginators' : {
+{"node": { "mac": b8:27:eb:19:7b:10,  "lastHeard":  0.430s, "signal": 213,  "nextHop": b8:27:eb:19:7b:10 }},
+{"node": { "mac": b8:27:eb:6a:53:02,  "lastHeard":  0.430s, "signal": 154,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:59:04:1f,  "lastHeard":  0.170s, "signal": 184,  "nextHop": b8:27:eb:59:04:1f }},
+{"node": { "mac": b8:27:eb:37:c6:35,  "lastHeard":  0.210s, "signal": 219,  "nextHop": b8:27:eb:37:c6:35 }},
+{"node": { "mac": b8:27:eb:54:a7:5c,  "lastHeard":  0.520s, "signal": 217,  "nextHop": b8:27:eb:54:a7:5c }},
+{"node": { "mac": b8:27:eb:9e:61:a1,  "lastHeard":  0.130s, "signal": 210,  "nextHop": b8:27:eb:9e:61:a1 }},
+{"node": { "mac": b8:27:eb:bd:8f:69,  "lastHeard":  0.440s, "signal": 235,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:bd:64:88,  "lastHeard":  0.020s, "signal": 156,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:55:bb:1f,  "lastHeard":  0.010s, "signal": 168,  "nextHop": b8:27:eb:55:bb:1f }},
+{"node": { "mac": b8:27:eb:ed:a2:a3,  "lastHeard":  0.020s, "signal": 227,  "nextHop": b8:27:eb:ed:a2:a3 }},
+{"node": { "mac": b8:27:eb:f9:46:30,  "lastHeard":  0.050s, "signal": 207,  "nextHop": b8:27:eb:f9:46:30 }},
+{"node": { "mac": b8:27:eb:7b:dd:a7,  "lastHeard":  0.050s, "signal": 132,  "nextHop": b8:27:eb:7b:dd:a7 }},
+{"node": { "mac": b8:27:eb:c4:b3:dd,  "lastHeard":  0.090s, "signal": 166,  "nextHop": b8:27:eb:c4:b3:dd }},
+{"node": { "mac": b8:27:eb:9a:ff:f6,  "lastHeard":  0.670s, "signal": 148,  "nextHop": b8:27:eb:bd:8f:69 }},
+{"node": { "mac": b8:27:eb:fb:e8:a0,  "lastHeard":  0.070s, "signal": 198,  "nextHop": b8:27:eb:fb:e8:a0 }},
+ },
+'neighbors' : {
+ },
+"totalNodes" :  16  ,
+"wlan0Config" : {
+"batmanInterval" :  1000  ,
+"txpower" :  25 dBm  ,
+"freq" :  2.412 GHz
+ } 
+ },
